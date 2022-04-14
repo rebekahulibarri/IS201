@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(218, 218, 211);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+    font-style: italic;
+}
+header{
+    background-color: rgb(218, 218, 211);
+}
